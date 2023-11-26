@@ -11,10 +11,5 @@
       "js": ["content.js"]
     }
   ],
-  "permissions": [
-    "tabs", "storage", "activeTab"
-  ],
-  "host_permissions": [
-    "<all_urls>"
-  ]
+  "permissions": ["tabs"]
 }
