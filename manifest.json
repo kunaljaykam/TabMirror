@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "TabMirror",
   "version": "1.0",
-  
+
   "background": {
     "service_worker": "background.js"
   },
@@ -17,9 +17,9 @@
   "permissions": ["tabs"],
 
   "icons": {
-    "16": "tab-mirror.jpg",
-    "48": "tab-mirror.jpg",
-    "128": "tab-mirror.jpg"
+    "16": "tab-mirror.png",
+    "48": "tab-mirror.png",
+    "128": "tab-mirror.png"
   }
   
 }
